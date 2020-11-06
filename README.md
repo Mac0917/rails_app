@@ -1,2 +1,2 @@
 # README
-dockerでデプロイ練習
+dockerでデプロイ
